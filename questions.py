@@ -6,12 +6,6 @@ import math
 nltk.download('punkt')
 nltk.download('stopwords')
 
-# REFERENCE: (just for my learning and future reference):
-# String contains punctuation:
-# https://www.geeksforgeeks.org/string-punctuation-in-python/
-# https://www.dotnetperls.com/punctuation-python
-# https://stackoverflow.com/questions/18429143/strip-punctuation-with-regex-python
-
 FILE_MATCHES = 1
 SENTENCE_MATCHES = 1
 
