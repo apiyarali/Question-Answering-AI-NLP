@@ -39,15 +39,15 @@ Example queries:
 
 1. **Query:** "What are the types of supervised learning?"
 
-- **Answer:** "Types of supervised learning algorithms include Active learning, classification, and regression."
+    - **Answer:** "Types of supervised learning algorithms include Active learning, classification, and regression."
 
 2. **Query:**  "When was Python 3.0 released?"
 
-- **Answer:** "Python 3.0 was released on 3 December 2008."
+    - **Answer:** "Python 3.0 was released on 3 December 2008."
 
 3. **Query:** "How do neurons connect in a neural network?"
 
-- **Answer:** "Neurons of one layer connect only to neurons of the immediately preceding and immediately following layers."
+    - **Answer:** "Neurons of one layer connect only to neurons of the immediately preceding and immediately following layers."
 
 ## Implementation Details
 ### Functions
